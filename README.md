@@ -14,10 +14,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&show_icons=true&theme=dark&username=tbrodbeck)
+
 -->
 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?show_icons=true&&theme=dark&username=tbrodbeck)
-
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?hide_rank=true&include_all_commits=true&show_icons=true&theme=transparent&username=tbrodbeck)
