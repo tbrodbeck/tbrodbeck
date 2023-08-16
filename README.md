@@ -1,8 +1,6 @@
 Hi there 👋
 
 My name is Till Brodbeck. And I can help you to become successful with your technology.
-
-Just get into contact with me.
 <!--
 **tbrodbeck/tbrodbeck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,4 +17,3 @@ Here are some ideas to get you started:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?hide_rank=true&include_all_commits=true&show_icons=true&theme=transparent&username=tbrodbeck)
 -->
-
